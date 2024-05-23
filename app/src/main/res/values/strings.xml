@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BuahHati</string>
+    <string name="title_signup_page">Sign Up</string>
+    <string name="name">Name\n</string>
+    <string name="string_hint_name">Your Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_login_page">Login</string>
+    <string name="login">Login\n</string>
 </resources>
