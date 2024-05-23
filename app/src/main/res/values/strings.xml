@@ -29,4 +29,9 @@
     <string name="lingkar_kepala_saat_lahir_cm">Lingkar Kepala saat lahir (cm)</string>
     <string name="golongan_darah">Golongan Darah</string>
     <string name="simpan_data">Simpan Data</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_home">Heyy, Selamat Datang</string>
 </resources>
