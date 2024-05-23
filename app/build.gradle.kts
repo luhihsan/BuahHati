@@ -7,6 +7,10 @@ android {
     namespace = "com.modul.buahhati"
     compileSdk = 34
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.modul.buahhati"
         minSdk = 24

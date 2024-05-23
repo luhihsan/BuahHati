@@ -34,4 +34,10 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="welcome_home">Heyy, Selamat Datang</string>
+    <string name="tv_tambah_data_pertumbuhan">Tambah Data Pertumbuhan</string>
+    <string name="hint_tanggal_pertumbuhan">Tanggal Pertumbuhan</string>
+    <string name="hint_umur_anak_bulan">Umur Anak (bulan) *</string>
+    <string name="hint_berat_badan_kg">Berat Badan (kg) *</string>
+    <string name="hint_tinggi_badan_cm">Tinggi Badan (cm) *</string>
+    <string name="sv_data_pertumbuhan">Simpan Data</string>
 </resources>
