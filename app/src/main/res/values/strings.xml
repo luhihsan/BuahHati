@@ -1,4 +1,13 @@
 <resources>
+
+    <string-array name="blood_types">
+        <item>Pilih Golongan Darah</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+
     <string name="app_name">BuahHati</string>
     <string name="title_signup_page">Sign Up</string>
     <string name="name">Name\n</string>
@@ -8,4 +17,16 @@
     <string name="signup">Sign Up</string>
     <string name="title_login_page">Login</string>
     <string name="login">Login\n</string>
+    <string name="string_title_register_anak">Masukan Data Diri Si Kecil</string>
+    <string name="string_nama_anak_regis">Nama Lengkap</string>
+    <string name="tanggal_lahir_regis">Tanggal Lahir</string>
+    <string name="string_tv_jeniskelamin">Jenis Kelamin</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="tv_data_kelahiran">Data Kelahiran</string>
+    <string name="berat_badan_saat_lahir_kg">Berat Badan saat lahir (kg)</string>
+    <string name="tinggi_badan_saat_lahir_cm">Tinggi Badan saat lahir (cm)</string>
+    <string name="lingkar_kepala_saat_lahir_cm">Lingkar Kepala saat lahir (cm)</string>
+    <string name="golongan_darah">Golongan Darah</string>
+    <string name="simpan_data">Simpan Data</string>
 </resources>
