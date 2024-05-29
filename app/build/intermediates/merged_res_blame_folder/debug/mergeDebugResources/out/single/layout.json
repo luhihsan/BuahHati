@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_sign_up.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_input_data_pertumbuhan.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_input_data_pertumbuhan.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/fragment_input_pertumbuhan.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/fragment_input_pertumbuhan.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_view_chart.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_view_chart.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/fragment_profile.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_splash.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_registrasi_anak.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_registrasi_anak.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/activity_welcome.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.modul.buahhati.app-mergeDebugResources-30:/layout/row_item_profile.xml",
+        "source": "com.modul.buahhati.app-main-33:/layout/row_item_profile.xml"
+    }
+]
