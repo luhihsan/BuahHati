@@ -58,4 +58,6 @@
     <string name="tinggi_lahir">Tinggi Badan Anak</string>
     <string name="lingkar_kepala">Lingkar Kepala Anak</string>
     <string name="golongan_darah_anak">Golongan Darah Anak</string>
+    <string name="invalid_email">Invalid Email Format\n</string>
+    <string name="invalid_password">Your password is less than 8 characters</string>
 </resources>

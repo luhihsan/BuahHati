@@ -8,7 +8,6 @@ import android.view.MotionEvent
 import android.view.View
 import androidx.appcompat.widget.AppCompatEditText
 import com.modul.buahhati.R
-import com.modul.storyapp.R
 
 class MyEditText : AppCompatEditText, View.OnTouchListener {
     constructor(context: Context) : super(context) {
